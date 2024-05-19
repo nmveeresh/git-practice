@@ -1,4 +1,4 @@
 Get the user data..
-Process the data..
+Process the data.
 
-New feature1
+New feature1 added.
